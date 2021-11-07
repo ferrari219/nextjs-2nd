@@ -15,7 +15,9 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to{' '}
-          <a href="https://nextjs.org">Backup파일 생성, tsconfig수정2!</a>
+          <a href="https://nextjs.org">
+            eslint적용, Backup파일 생성, tsconfig수정2!
+          </a>
         </h1>
 
         <p className={styles.description}>
