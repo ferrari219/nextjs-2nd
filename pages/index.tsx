@@ -16,7 +16,7 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
           Welcome to{' '}
           <a href="https://nextjs.org">
-            eslint적용, Backup파일 생성, tsconfig수정2!
+            build, eslint적용, Backup파일 생성, tsconfig수정2!
           </a>
         </h1>
 
