@@ -4,6 +4,7 @@ const index = () => {
   return (
     <div>
       <ul>
+        <li>next.config 수정</li>
         <li>Prettierrc 적용</li>
         <li>패키지 설치</li>
         <li>build</li>
